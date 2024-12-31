@@ -1,0 +1,23 @@
+div{
+    right: 20px;
+border: 1px dashed darkorchid;
+}
+div.sticky{
+    position: sticky;
+    left: 2px;
+    background-color: lightcoral;
+}
+div.relative {
+    position: relative;
+    left: 2px;
+    background-color:lightsalmon;
+
+}div.absolute {
+    position: absolute;
+    left: 2px;
+    background-color:aquamarine;
+
+}
+div.gradient{
+background: linear-gradient(light coral,lightsalmon,aquamarine);
+}
